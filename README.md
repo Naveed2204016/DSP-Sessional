@@ -1,1 +1,1 @@
-# DSP-Sessional
+# DSP-Sessional (CSE-224)
